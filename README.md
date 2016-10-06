@@ -5,6 +5,8 @@ GAME : https://apps.facebook.com/ninjasaga
 
 Since i'm bored of this game which turned to shit, why not release scripts so others may learn.
 
+.FLA was created using ADOBE FLASH CS5
+
 # Credits
 Flash NSc
 
